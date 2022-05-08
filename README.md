@@ -14,8 +14,8 @@ View of the whole single page application.
 
 ### UserAgeModal
 
-#### *Application View*
-![Application View](git-image/image2.png)
+#### *Error Modal View*
+![Error Modal View](git-image/image2.png)
 
 View of the error modal.
 
@@ -23,4 +23,16 @@ View of the error modal.
 ![Application View](git-image/image3.png)
 
 View of the whole single page application.
+
+### LoginLogout
+
+#### *Login View*
+![Login View](git-image/image4.png)
+
+View of the login page. Testing useContext, useReducer and useEffect.
+
+#### *Application View*
+![Application View](git-image/image5.png)
+
+View of the application page.
 
