@@ -42,3 +42,10 @@ View of the application page.
 ![Application View](git-image/image6.png)
 
 View of the application page.
+
+### TasksCustomHooks
+
+#### *Application View*
+![Application View](git-image/image7.png)
+
+View of the application page.
