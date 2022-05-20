@@ -36,3 +36,9 @@ View of the login page. Testing useContext, useReducer and useEffect.
 
 View of the application page.
 
+### MoviesHttp
+
+#### *Application View*
+![Application View](git-image/image6.png)
+
+View of the application page.
