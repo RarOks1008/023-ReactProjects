@@ -49,3 +49,10 @@ View of the application page.
 ![Application View](git-image/image7.png)
 
 View of the application page.
+
+### FormsValidation
+
+#### *Application View*
+![Application View](git-image/image8.png)
+
+View of the application page.
