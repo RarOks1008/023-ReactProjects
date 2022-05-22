@@ -56,3 +56,15 @@ View of the application page.
 ![Application View](git-image/image8.png)
 
 View of the application page.
+
+### AuthRedux
+
+#### *Login View*
+![Login View](git-image/image9.png)
+
+View of the login page.
+
+#### *Application View*
+![Application View](git-image/image10.png)
+
+View of the application page.
