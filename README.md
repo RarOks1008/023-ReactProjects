@@ -68,3 +68,10 @@ View of the login page.
 ![Application View](git-image/image10.png)
 
 View of the application page.
+
+### ReduxCart
+
+#### *Application View*
+![Application View](git-image/image11.png)
+
+View of the application page.
