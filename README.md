@@ -75,3 +75,20 @@ View of the application page.
 ![Application View](git-image/image11.png)
 
 View of the application page.
+
+### QuoteRouting
+
+#### *All Quotes View*
+![All Quotes View](git-image/image12.png)
+
+View of all the quotes.
+
+#### *New Quote View*
+![New Quote View](git-image/image13.png)
+
+View of the new quote form.
+
+#### *Single Quote View*
+![Single Quote View](git-image/image14.png)
+
+View of the single quote with comments.
