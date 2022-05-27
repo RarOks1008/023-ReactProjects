@@ -92,3 +92,20 @@ View of the new quote form.
 ![Single Quote View](git-image/image14.png)
 
 View of the single quote with comments.
+
+### AuthenticationREST
+
+#### *Login View*
+![ALogin View](git-image/image15.png)
+
+View of the login page.
+
+#### *SignUp View*
+![SignUp View](git-image/image16.png)
+
+View of the sign up page.
+
+#### *Change Password View*
+![Change Password View](git-image/image17.png)
+
+View of the change password page.
