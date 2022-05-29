@@ -96,7 +96,7 @@ View of the single quote with comments.
 ### AuthenticationREST
 
 #### *Login View*
-![ALogin View](git-image/image15.png)
+![Login View](git-image/image15.png)
 
 View of the login page.
 
@@ -109,3 +109,20 @@ View of the sign up page.
 ![Change Password View](git-image/image17.png)
 
 View of the change password page.
+
+### MeetupsNextJS
+
+#### *Home View*
+![Home View](git-image/image15.png)
+
+View of the home page.
+
+#### *Single Meetup View*
+![Single Meetup View](git-image/image16.png)
+
+View of the single meetup.
+
+#### *Add A Meetup View*
+![Add A Meetup View](git-image/image17.png)
+
+View of the add a meetup form.
