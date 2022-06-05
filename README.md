@@ -113,16 +113,23 @@ View of the change password page.
 ### MeetupsNextJS
 
 #### *Home View*
-![Home View](git-image/image15.png)
+![Home View](git-image/image18.png)
 
 View of the home page.
 
 #### *Single Meetup View*
-![Single Meetup View](git-image/image16.png)
+![Single Meetup View](git-image/image19.png)
 
 View of the single meetup.
 
 #### *Add A Meetup View*
-![Add A Meetup View](git-image/image17.png)
+![Add A Meetup View](git-image/image20.png)
 
 View of the add a meetup form.
+
+### AnimationsReact
+
+#### *Application View*
+![Application View](git-image/image21.png)
+
+View of the application page.
