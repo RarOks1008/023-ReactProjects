@@ -133,3 +133,10 @@ View of the add a meetup form.
 ![Application View](git-image/image21.png)
 
 View of the application page.
+
+### TestingReact
+
+#### *Test View*
+![Test View](git-image/image22.png)
+
+View of the test console.
